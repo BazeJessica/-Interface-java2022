@@ -1,6 +1,4 @@
 package interfaces.species.impl;
-
-import interfaces.bodypart.Arm;
 import interfaces.bodypart.Head;
 import interfaces.bodypart.Leg;
 import interfaces.bodypart.Limb;
